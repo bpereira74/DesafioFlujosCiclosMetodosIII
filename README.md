@@ -1,3 +1,9 @@
+# DESAFIO FLUJOS CICLOS Y METODOS
+Se suben tres archivos para cumplir  con el desafío
+1 nuevosalario.rb
+2 Numaleatorio.rb
+3 Obesidad.rb
+
 # Ruby on Replit
 
 This is a template to get you started with Ruby on Replit. It's ready to go so you can just hit run and start coding!
