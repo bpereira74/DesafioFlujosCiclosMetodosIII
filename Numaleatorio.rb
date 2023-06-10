@@ -3,7 +3,7 @@
       puts("Este es el juego de adivina mi numero. ")
       num1=''
 until r1==num1 do 
-      puts("elije numero Elige un numero del 1 al 10")
+      puts("Elige un numero del 1 al 10")
       num1=gets.to_i
       if r1==num1
             puts("Adivinaste!! mi numero era el #{r1}: Has ganado") 

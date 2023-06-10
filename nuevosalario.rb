@@ -7,7 +7,7 @@ end
 puts("***¡Bienvenido/a al sistema de cálculo Nuevo Salario!***")
 puts "Ingresa el salario inicial: "
 salario_ini = gets.chomp.to_i
-puts "Ingresa el porcentaje de incremento "
+puts "Ingresa el porcentaje de incremento porcentual"
 porcentaje = gets.chomp.to_f
 resultado = nuevo_salario(salario_ini,porcentaje)
 puts(resultado)
